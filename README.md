@@ -3,10 +3,10 @@
 Aprendiendo [Codigo con Juan](https://codigoconjuan.com/)
 
 Utilizando:
-*prototypes 
-*jquery
-*validación formularios
-*tailwind.
+* prototypes 
+* jquery
+* validación formularios
+* tailwind.
 
 ## Deploy
 
