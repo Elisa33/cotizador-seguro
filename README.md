@@ -1,8 +1,8 @@
 # Cotizador-seguro
+study project - modern js
 
-Aprendiendo [Codigo con Juan](https://codigoconjuan.com/)
 
-Utilizando:
+Technologies:
 * prototypes 
 * jquery
 * validación formularios
@@ -11,5 +11,7 @@ Utilizando:
 ## Deploy
 
 [Aquí](https://eager-roentgen-342879.netlify.app/)
+
+
 
 
